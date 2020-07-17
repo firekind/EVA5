@@ -13,15 +13,15 @@ Therefore in DNN, these represents a containers which contains a features maps.Â
 
 #### Kernel
 
-Kernel is the guy which extracts the features for us. Kernel can be called as filter or features extractor as well. Its task is to take the input and extract features out of it and store them in feature maps called as channels.
+Kernel is the guy which extracts the features for us. Kernel can be called as filter or feature extractor as well. Its task is to take the input and extract features out of it and store them in feature maps called as channels.
 
 ---
 
 ### Why should we (nearly) always use 3x3 kernels ?
 
-While convoluting an image, we always nearly use **odd sized kernels or filters, because when we convolve on pixel level we will have symmetry around the center pixel** when we use odd sized kernels. But, if we use even sized kernels. We will lose that symmetry which can cause distortions, so mostly we don't use even sized kernels.
+While convoluting an image, we always nearly use **odd sized kernels or filters, because when we convolve on pixel level we will have symmetry around the center pixel** when we use odd sized kernels. But, if we use even sized kernels, we will lose that symmetry (which can cause distortions), so mostly we don't use even sized kernels.
 
-Now we have clear understanding about why we prefer odd sized kernels, but why 3x3 mainly. In odd sized kernels, we use 1x1 when we want to decrease the channels or any bottleneck situations. Other than that we use 3x3 mainly because compared to 5x5, 7x7 and etc... 3x3 have less parameters and most compilers are optimized for 3x3 kernels. Receptive Filed of 1 5x5 kernel is equal to 2 3x3 kernel, so in place of 5x5 we can do 2 3x3 operations and save some parameters too... as you can see 1 5x5 kernel have 25 parameters, but 2 3x3 have (9 * 2) = 18 parameters. Same applies for all higher odd number kernels, 1 7x7 equals to 3 3x3 kernels. 
+Now we have clear understanding about why we prefer odd sized kernels, but why 3x3 mainly. In odd sized kernels, we use 1x1 when we want to decrease the channels or any bottleneck situations. Other than that we use 3x3 mainly because compared to 5x5, 7x7 and etc... 3x3 have less parameters and most compilers are optimized for 3x3 kernels. Receptive field of 1 5x5 kernel is equal to 2 3x3 kernel and 1 5x5 kernel has 25 parameters, but 2 3x3 have (9 * 2) = 18 parameters. So in place of 5x5 we can do 2 3x3 operations and save some parameters too. The same applies for all higher odd number kernels, 1 7x7 equals to 3 3x3 kernels and so on. 
 
 ---
 
@@ -77,9 +77,9 @@ Initialisation of Neural Networks Kernel are always to small random numbers clos
 
 Using this random nature we try to find a good connection between the inputs and the outputs. This help us in fitting different networks on same data whenever we train afresh.
 
-There is no doubt that training gets affected by the kernel initialisation. As every story need a starting point, here as well we need some initial point where we can start our iterations. We avoid initialising is to zeroes as it may lead to training fail as the weights wont change and the model will get stuck.
+There is no doubt that training gets affected by the kernel initialisation. As every story need a starting point, here as well we need some initial point where we can start our iterations. We avoid initialising it to zeroes as training may fail since the weights won't change and the model will get stuck.
 
-Therefore pinpointing a strategy to initialise the weights of a neural network is waste as there is none and we will take this as a HYPER-PARAMETER.
+Therefore pinpointing a strategy to initialise the weights of a neural network is waste as there is none and we will take this as a **hyper-parameter**.
 
 ---
 
