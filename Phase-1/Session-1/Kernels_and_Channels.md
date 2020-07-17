@@ -1,4 +1,4 @@
-#What are Kernels and Channels
+# What are Kernels and Channels
 
 ## Channels
 
