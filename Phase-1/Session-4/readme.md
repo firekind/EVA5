@@ -9,6 +9,25 @@
 - After each layer, batch norm followed by a dropout of 5% is applied. 
 - The activation function used is ReLU.
 
+Thus, the architecture is:
+1. conv1: in channel - 1, out channel - 8, kernel size - 3x3
+2. Batch Norm and Dropout of 0.05
+3. conv2: in channel - 8, out channel - 16, kernel size - 3x3
+4. Batch Norm and Dropout of 0.05
+5. 2x2 max pooling
+6. Batch Norm and Dropout of 0.05
+7. conv3: in channel - 16, out channel - 32, kernel size - 3x3
+8. Batch Norm and Dropout of 0.05
+<br/><br/>
+9. conv4: in channel - 32, out channel - 8, kernel size - 1x1
+10. Batch Norm and Dropout of 0.05
+11. conv5: in channel - 8, out channel - 16, kernel size - 3x3 
+12. Batch Norm and Dropout of 0.05
+13. 2x2 max pooling
+14. Batch Norm and Dropout of 0.05
+15. conv6: in channel - 16, out channel - 32, kernel size - 3x3
+12. conv7: in channel - 32, out channel - 10, kernel size - 2x2
+
 ## Parameters
 ```
 ----------------------------------------------------------------
