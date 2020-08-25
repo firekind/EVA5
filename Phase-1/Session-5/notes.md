@@ -18,7 +18,7 @@
         - otherwise you won't know which change made the most difference
 - train and test the model again
 
-## Reduce paramter count
+## Reduce parameter count
 - reduce the number of channels in the convolutional layers depending on the dataset
     - eg: from 32-64-128 -> 10-10-20
 - train and test the model again
