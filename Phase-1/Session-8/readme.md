@@ -76,4 +76,4 @@ if not step size, the first drop in learning rate could have happened much earli
 
 ## Appendix
 
-Tensorboard was used to log the losses, accuracies and the model itself. The tensorboard event file is present in `./logs/ResNet-18/ResNet-18 with Cross Entropy Loss`. So an interactive plot and model of this assignment can be viewed using tensorboard.
+Tensorboard was used to log the losses, accuracies and the model itself. The tensorboard event file is present in [./logs/ResNet-18/ResNet-18 with Cross Entropy Loss](./logs/ResNet-18/ResNet-18%20with%20Cross%20Entropy%20Loss). So an interactive plot and model of this assignment can be viewed using tensorboard.
