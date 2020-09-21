@@ -13,7 +13,7 @@ For training,
 4. number of epochs trained for was `115` (found through trial and error)
 5. No data augmentation, (since the next session is about data augmentation 😛), but the images were normalized with mean (0.4914, 0.4822, 0.4465) and std (0.2023, 0.1994, 0.2010)
 
-Here's a snippet of the training logs (taken from [assignment.ipynb](./assignment.ipynb)):
+Here's a snippet of the training logs (taken from [assignment.ipynb](./assignment.ipynb)). The max accuracy that was achieved was 88.53%:
 
 ```
 Epoch: 56 / 115
@@ -76,4 +76,4 @@ if not step size, the first drop in learning rate could have happened much earli
 
 ## Appendix
 
-Tensorboard was used to log the losses, accuracies and the model itself. The tensorboard event file is present in `./logs/ResNet-18/ResNet-18 with Cross Entropy Loss`. So an interactive plot and model of this assignment can be viewed using tensorboard.
+Tensorboard was used to log the losses, accuracies and the model itself. The tensorboard event file is present in [./logs/ResNet-18/ResNet-18 with Cross Entropy Loss](./logs/ResNet-18/ResNet-18%20with%20Cross%20Entropy%20Loss). So an interactive plot and model of this assignment can be viewed using tensorboard.
