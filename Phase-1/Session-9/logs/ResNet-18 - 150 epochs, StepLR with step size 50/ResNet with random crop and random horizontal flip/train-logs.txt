@@ -1,0 +1,600 @@
+=> Running experiment: ResNet with random crop and random horizontal flip
+Epoch: 1 / 150
+391/391 [==============================] - 68s 173ms/step - train loss: 2.0113 - train accuracy: 30.9920
+Test set: Average loss: 2.1253, Accuracy: 3388/10000 (33.88%)
+
+Epoch: 2 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 1.4411 - train accuracy: 47.2220
+Test set: Average loss: 1.5710, Accuracy: 4582/10000 (45.82%)
+
+Epoch: 3 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 1.1937 - train accuracy: 56.6120
+Test set: Average loss: 1.2525, Accuracy: 5526/10000 (55.26%)
+
+Epoch: 4 / 150
+391/391 [==============================] - 68s 175ms/step - train loss: 0.9724 - train accuracy: 65.4620
+Test set: Average loss: 1.9509, Accuracy: 4037/10000 (40.37%)
+
+Epoch: 5 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.8191 - train accuracy: 70.9380
+Test set: Average loss: 1.0523, Accuracy: 6407/10000 (64.07%)
+
+Epoch: 6 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.6874 - train accuracy: 75.9640
+Test set: Average loss: 0.7117, Accuracy: 7520/10000 (75.20%)
+
+Epoch: 7 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.5887 - train accuracy: 79.5540
+Test set: Average loss: 0.7840, Accuracy: 7257/10000 (72.57%)
+
+Epoch: 8 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.5259 - train accuracy: 81.8680
+Test set: Average loss: 0.8603, Accuracy: 7140/10000 (71.40%)
+
+Epoch: 9 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.4766 - train accuracy: 83.5300
+Test set: Average loss: 0.8407, Accuracy: 7073/10000 (70.73%)
+
+Epoch: 10 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.4570 - train accuracy: 84.1760
+Test set: Average loss: 0.6817, Accuracy: 7685/10000 (76.85%)
+
+Epoch: 11 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.4222 - train accuracy: 85.3880
+Test set: Average loss: 0.5656, Accuracy: 8073/10000 (80.73%)
+
+Epoch: 12 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.4012 - train accuracy: 86.0060
+Test set: Average loss: 0.6040, Accuracy: 7942/10000 (79.42%)
+
+Epoch: 13 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3843 - train accuracy: 86.7080
+Test set: Average loss: 0.6246, Accuracy: 7951/10000 (79.51%)
+
+Epoch: 14 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3657 - train accuracy: 87.3220
+Test set: Average loss: 0.6323, Accuracy: 7863/10000 (78.63%)
+
+Epoch: 15 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3495 - train accuracy: 87.9340
+Test set: Average loss: 0.6229, Accuracy: 7947/10000 (79.47%)
+
+Epoch: 16 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3394 - train accuracy: 88.1820
+Test set: Average loss: 0.6282, Accuracy: 7953/10000 (79.53%)
+
+Epoch: 17 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3252 - train accuracy: 88.7020
+Test set: Average loss: 0.5312, Accuracy: 8203/10000 (82.03%)
+
+Epoch: 18 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3133 - train accuracy: 89.1600
+Test set: Average loss: 0.7886, Accuracy: 7652/10000 (76.52%)
+
+Epoch: 19 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3093 - train accuracy: 89.2020
+Test set: Average loss: 0.6610, Accuracy: 7826/10000 (78.26%)
+
+Epoch: 20 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.3003 - train accuracy: 89.6720
+Test set: Average loss: 0.5227, Accuracy: 8217/10000 (82.17%)
+
+Epoch: 21 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2986 - train accuracy: 89.6940
+Test set: Average loss: 0.8332, Accuracy: 7407/10000 (74.07%)
+
+Epoch: 22 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2932 - train accuracy: 89.8380
+Test set: Average loss: 0.6033, Accuracy: 7991/10000 (79.91%)
+
+Epoch: 23 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2906 - train accuracy: 90.0300
+Test set: Average loss: 0.6218, Accuracy: 7934/10000 (79.34%)
+
+Epoch: 24 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2907 - train accuracy: 90.0120
+Test set: Average loss: 0.5216, Accuracy: 8291/10000 (82.91%)
+
+Epoch: 25 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2713 - train accuracy: 90.6100
+Test set: Average loss: 0.5608, Accuracy: 8168/10000 (81.68%)
+
+Epoch: 26 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2756 - train accuracy: 90.4800
+Test set: Average loss: 0.5076, Accuracy: 8323/10000 (83.23%)
+
+Epoch: 27 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2696 - train accuracy: 90.8360
+Test set: Average loss: 0.6327, Accuracy: 7939/10000 (79.39%)
+
+Epoch: 28 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2689 - train accuracy: 90.7720
+Test set: Average loss: 0.7523, Accuracy: 7671/10000 (76.71%)
+
+Epoch: 29 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2691 - train accuracy: 90.6080
+Test set: Average loss: 0.5015, Accuracy: 8363/10000 (83.63%)
+
+Epoch: 30 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2581 - train accuracy: 90.9860
+Test set: Average loss: 0.5339, Accuracy: 8251/10000 (82.51%)
+
+Epoch: 31 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2597 - train accuracy: 91.0040
+Test set: Average loss: 0.6149, Accuracy: 8074/10000 (80.74%)
+
+Epoch: 32 / 150
+391/391 [==============================] - 68s 175ms/step - train loss: 0.2554 - train accuracy: 91.0760
+Test set: Average loss: 0.9166, Accuracy: 7374/10000 (73.74%)
+
+Epoch: 33 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2591 - train accuracy: 91.1120
+Test set: Average loss: 0.5882, Accuracy: 8082/10000 (80.82%)
+
+Epoch: 34 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2505 - train accuracy: 91.4360
+Test set: Average loss: 0.4635, Accuracy: 8463/10000 (84.63%)
+
+Epoch: 35 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2505 - train accuracy: 91.4520
+Test set: Average loss: 0.6120, Accuracy: 8017/10000 (80.17%)
+
+Epoch: 36 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2480 - train accuracy: 91.5000
+Test set: Average loss: 0.5033, Accuracy: 8454/10000 (84.54%)
+
+Epoch: 37 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2549 - train accuracy: 91.2420
+Test set: Average loss: 0.5488, Accuracy: 8175/10000 (81.75%)
+
+Epoch: 38 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2390 - train accuracy: 91.7080
+Test set: Average loss: 0.5273, Accuracy: 8225/10000 (82.25%)
+
+Epoch: 39 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2474 - train accuracy: 91.5360
+Test set: Average loss: 0.5187, Accuracy: 8314/10000 (83.14%)
+
+Epoch: 40 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2415 - train accuracy: 91.6340
+Test set: Average loss: 0.6494, Accuracy: 8005/10000 (80.05%)
+
+Epoch: 41 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2491 - train accuracy: 91.5240
+Test set: Average loss: 0.4985, Accuracy: 8368/10000 (83.68%)
+
+Epoch: 42 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2451 - train accuracy: 91.5400
+Test set: Average loss: 0.4742, Accuracy: 8414/10000 (84.14%)
+
+Epoch: 43 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2439 - train accuracy: 91.5920
+Test set: Average loss: 0.5577, Accuracy: 8206/10000 (82.06%)
+
+Epoch: 44 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2389 - train accuracy: 91.7720
+Test set: Average loss: 0.5481, Accuracy: 8237/10000 (82.37%)
+
+Epoch: 45 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2412 - train accuracy: 91.7580
+Test set: Average loss: 0.5953, Accuracy: 8134/10000 (81.34%)
+
+Epoch: 46 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2416 - train accuracy: 91.7380
+Test set: Average loss: 0.5307, Accuracy: 8329/10000 (83.29%)
+
+Epoch: 47 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2365 - train accuracy: 91.8540
+Test set: Average loss: 0.5180, Accuracy: 8378/10000 (83.78%)
+
+Epoch: 48 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2320 - train accuracy: 92.0120
+Test set: Average loss: 0.6095, Accuracy: 8011/10000 (80.11%)
+
+Epoch: 49 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2347 - train accuracy: 91.9120
+Test set: Average loss: 0.5889, Accuracy: 8105/10000 (81.05%)
+
+Epoch: 50 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.2312 - train accuracy: 92.1520
+Test set: Average loss: 0.5034, Accuracy: 8411/10000 (84.11%)
+
+Epoch: 51 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0925 - train accuracy: 97.1200
+Test set: Average loss: 0.2989, Accuracy: 9029/10000 (90.29%)
+
+Epoch: 52 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0426 - train accuracy: 98.9380
+Test set: Average loss: 0.2961, Accuracy: 9059/10000 (90.59%)
+
+Epoch: 53 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0272 - train accuracy: 99.4260
+Test set: Average loss: 0.2969, Accuracy: 9090/10000 (90.90%)
+
+Epoch: 54 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0183 - train accuracy: 99.7060
+Test set: Average loss: 0.3083, Accuracy: 9080/10000 (90.80%)
+
+Epoch: 55 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0127 - train accuracy: 99.8340
+Test set: Average loss: 0.3087, Accuracy: 9094/10000 (90.94%)
+
+Epoch: 56 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0098 - train accuracy: 99.8860
+Test set: Average loss: 0.3078, Accuracy: 9079/10000 (90.79%)
+
+Epoch: 57 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0080 - train accuracy: 99.9200
+Test set: Average loss: 0.3114, Accuracy: 9102/10000 (91.02%)
+
+Epoch: 58 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0062 - train accuracy: 99.9680
+Test set: Average loss: 0.3073, Accuracy: 9094/10000 (90.94%)
+
+Epoch: 59 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0052 - train accuracy: 99.9800
+Test set: Average loss: 0.3088, Accuracy: 9096/10000 (90.96%)
+
+Epoch: 60 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0045 - train accuracy: 99.9920
+Test set: Average loss: 0.3084, Accuracy: 9110/10000 (91.10%)
+
+Epoch: 61 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0041 - train accuracy: 99.9960
+Test set: Average loss: 0.3121, Accuracy: 9114/10000 (91.14%)
+
+Epoch: 62 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0039 - train accuracy: 99.9860
+Test set: Average loss: 0.3164, Accuracy: 9097/10000 (90.97%)
+
+Epoch: 63 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0037 - train accuracy: 99.9960
+Test set: Average loss: 0.3055, Accuracy: 9115/10000 (91.15%)
+
+Epoch: 64 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0035 - train accuracy: 99.9960
+Test set: Average loss: 0.3071, Accuracy: 9111/10000 (91.11%)
+
+Epoch: 65 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0033 - train accuracy: 100.0000
+Test set: Average loss: 0.3025, Accuracy: 9125/10000 (91.25%)
+
+Epoch: 66 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0032 - train accuracy: 100.0000
+Test set: Average loss: 0.3027, Accuracy: 9117/10000 (91.17%)
+
+Epoch: 67 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0030 - train accuracy: 100.0000
+Test set: Average loss: 0.3066, Accuracy: 9123/10000 (91.23%)
+
+Epoch: 68 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0029 - train accuracy: 100.0000
+Test set: Average loss: 0.3029, Accuracy: 9115/10000 (91.15%)
+
+Epoch: 69 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0029 - train accuracy: 100.0000
+Test set: Average loss: 0.3015, Accuracy: 9134/10000 (91.34%)
+
+Epoch: 70 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0028 - train accuracy: 100.0000
+Test set: Average loss: 0.3073, Accuracy: 9131/10000 (91.31%)
+
+Epoch: 71 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0028 - train accuracy: 100.0000
+Test set: Average loss: 0.3030, Accuracy: 9133/10000 (91.33%)
+
+Epoch: 72 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0027 - train accuracy: 100.0000
+Test set: Average loss: 0.3065, Accuracy: 9127/10000 (91.27%)
+
+Epoch: 73 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0027 - train accuracy: 99.9980
+Test set: Average loss: 0.3003, Accuracy: 9125/10000 (91.25%)
+
+Epoch: 74 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0025 - train accuracy: 100.0000
+Test set: Average loss: 0.3047, Accuracy: 9134/10000 (91.34%)
+
+Epoch: 75 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0026 - train accuracy: 100.0000
+Test set: Average loss: 0.2985, Accuracy: 9136/10000 (91.36%)
+
+Epoch: 76 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0026 - train accuracy: 100.0000
+Test set: Average loss: 0.2960, Accuracy: 9133/10000 (91.33%)
+
+Epoch: 77 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0025 - train accuracy: 100.0000
+Test set: Average loss: 0.3007, Accuracy: 9142/10000 (91.42%)
+
+Epoch: 78 / 150
+391/391 [==============================] - 68s 175ms/step - train loss: 0.0024 - train accuracy: 100.0000
+Test set: Average loss: 0.3006, Accuracy: 9151/10000 (91.51%)
+
+Epoch: 79 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0025 - train accuracy: 100.0000
+Test set: Average loss: 0.2980, Accuracy: 9166/10000 (91.66%)
+
+Epoch: 80 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0024 - train accuracy: 100.0000
+Test set: Average loss: 0.2953, Accuracy: 9149/10000 (91.49%)
+
+Epoch: 81 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0023 - train accuracy: 100.0000
+Test set: Average loss: 0.2980, Accuracy: 9158/10000 (91.58%)
+
+Epoch: 82 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0023 - train accuracy: 100.0000
+Test set: Average loss: 0.2932, Accuracy: 9148/10000 (91.48%)
+
+Epoch: 83 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0023 - train accuracy: 100.0000
+Test set: Average loss: 0.2933, Accuracy: 9156/10000 (91.56%)
+
+Epoch: 84 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0022 - train accuracy: 100.0000
+Test set: Average loss: 0.3011, Accuracy: 9141/10000 (91.41%)
+
+Epoch: 85 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0023 - train accuracy: 100.0000
+Test set: Average loss: 0.2948, Accuracy: 9137/10000 (91.37%)
+
+Epoch: 86 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0022 - train accuracy: 100.0000
+Test set: Average loss: 0.2982, Accuracy: 9151/10000 (91.51%)
+
+Epoch: 87 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0022 - train accuracy: 100.0000
+Test set: Average loss: 0.2996, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 88 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0022 - train accuracy: 100.0000
+Test set: Average loss: 0.2929, Accuracy: 9162/10000 (91.62%)
+
+Epoch: 89 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0021 - train accuracy: 100.0000
+Test set: Average loss: 0.2924, Accuracy: 9162/10000 (91.62%)
+
+Epoch: 90 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0022 - train accuracy: 100.0000
+Test set: Average loss: 0.2959, Accuracy: 9157/10000 (91.57%)
+
+Epoch: 91 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0022 - train accuracy: 100.0000
+Test set: Average loss: 0.2954, Accuracy: 9160/10000 (91.60%)
+
+Epoch: 92 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0021 - train accuracy: 100.0000
+Test set: Average loss: 0.2933, Accuracy: 9171/10000 (91.71%)
+
+Epoch: 93 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0021 - train accuracy: 100.0000
+Test set: Average loss: 0.2967, Accuracy: 9154/10000 (91.54%)
+
+Epoch: 94 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0021 - train accuracy: 100.0000
+Test set: Average loss: 0.3023, Accuracy: 9149/10000 (91.49%)
+
+Epoch: 95 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0020 - train accuracy: 100.0000
+Test set: Average loss: 0.2943, Accuracy: 9161/10000 (91.61%)
+
+Epoch: 96 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0020 - train accuracy: 100.0000
+Test set: Average loss: 0.2913, Accuracy: 9167/10000 (91.67%)
+
+Epoch: 97 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0020 - train accuracy: 100.0000
+Test set: Average loss: 0.2976, Accuracy: 9164/10000 (91.64%)
+
+Epoch: 98 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0020 - train accuracy: 100.0000
+Test set: Average loss: 0.2946, Accuracy: 9169/10000 (91.69%)
+
+Epoch: 99 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0020 - train accuracy: 100.0000
+Test set: Average loss: 0.2903, Accuracy: 9175/10000 (91.75%)
+
+Epoch: 100 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0020 - train accuracy: 100.0000
+Test set: Average loss: 0.2933, Accuracy: 9161/10000 (91.61%)
+
+Epoch: 101 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2961, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 102 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.3037, Accuracy: 9163/10000 (91.63%)
+
+Epoch: 103 / 150
+391/391 [==============================] - 68s 175ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2909, Accuracy: 9174/10000 (91.74%)
+
+Epoch: 104 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2955, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 105 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2945, Accuracy: 9161/10000 (91.61%)
+
+Epoch: 106 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.3027, Accuracy: 9167/10000 (91.67%)
+
+Epoch: 107 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2943, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 108 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2929, Accuracy: 9175/10000 (91.75%)
+
+Epoch: 109 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2926, Accuracy: 9167/10000 (91.67%)
+
+Epoch: 110 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2976, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 111 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2935, Accuracy: 9173/10000 (91.73%)
+
+Epoch: 112 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2971, Accuracy: 9157/10000 (91.57%)
+
+Epoch: 113 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2946, Accuracy: 9176/10000 (91.76%)
+
+Epoch: 114 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.3021, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 115 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2925, Accuracy: 9158/10000 (91.58%)
+
+Epoch: 116 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2920, Accuracy: 9175/10000 (91.75%)
+
+Epoch: 117 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2971, Accuracy: 9152/10000 (91.52%)
+
+Epoch: 118 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2905, Accuracy: 9168/10000 (91.68%)
+
+Epoch: 119 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2933, Accuracy: 9167/10000 (91.67%)
+
+Epoch: 120 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.3022, Accuracy: 9161/10000 (91.61%)
+
+Epoch: 121 / 150
+391/391 [==============================] - 68s 175ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2946, Accuracy: 9159/10000 (91.59%)
+
+Epoch: 122 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2942, Accuracy: 9162/10000 (91.62%)
+
+Epoch: 123 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2924, Accuracy: 9171/10000 (91.71%)
+
+Epoch: 124 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2925, Accuracy: 9172/10000 (91.72%)
+
+Epoch: 125 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2925, Accuracy: 9163/10000 (91.63%)
+
+Epoch: 126 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2956, Accuracy: 9166/10000 (91.66%)
+
+Epoch: 127 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2942, Accuracy: 9162/10000 (91.62%)
+
+Epoch: 128 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2918, Accuracy: 9169/10000 (91.69%)
+
+Epoch: 129 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2923, Accuracy: 9166/10000 (91.66%)
+
+Epoch: 130 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2932, Accuracy: 9170/10000 (91.70%)
+
+Epoch: 131 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2930, Accuracy: 9166/10000 (91.66%)
+
+Epoch: 132 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.3030, Accuracy: 9152/10000 (91.52%)
+
+Epoch: 133 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2920, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 134 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2917, Accuracy: 9169/10000 (91.69%)
+
+Epoch: 135 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2920, Accuracy: 9163/10000 (91.63%)
+
+Epoch: 136 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2925, Accuracy: 9168/10000 (91.68%)
+
+Epoch: 137 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2903, Accuracy: 9171/10000 (91.71%)
+
+Epoch: 138 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2996, Accuracy: 9167/10000 (91.67%)
+
+Epoch: 139 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2921, Accuracy: 9165/10000 (91.65%)
+
+Epoch: 140 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2912, Accuracy: 9168/10000 (91.68%)
+
+Epoch: 141 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2958, Accuracy: 9161/10000 (91.61%)
+
+Epoch: 142 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2966, Accuracy: 9168/10000 (91.68%)
+
+Epoch: 143 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2903, Accuracy: 9166/10000 (91.66%)
+
+Epoch: 144 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0018 - train accuracy: 100.0000
+Test set: Average loss: 0.2911, Accuracy: 9159/10000 (91.59%)
+
+Epoch: 145 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2939, Accuracy: 9164/10000 (91.64%)
+
+Epoch: 146 / 150
+391/391 [==============================] - 68s 175ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2920, Accuracy: 9168/10000 (91.68%)
+
+Epoch: 147 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2944, Accuracy: 9155/10000 (91.55%)
+
+Epoch: 148 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2937, Accuracy: 9168/10000 (91.68%)
+
+Epoch: 149 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2926, Accuracy: 9163/10000 (91.63%)
+
+Epoch: 150 / 150
+391/391 [==============================] - 68s 174ms/step - train loss: 0.0019 - train accuracy: 100.0000
+Test set: Average loss: 0.2918, Accuracy: 9162/10000 (91.62%)
