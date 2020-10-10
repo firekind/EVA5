@@ -1,4 +1,4 @@
-# Assignment 9
+# Assignment 10
 
 In this assignment, we had to get ResNet-18 trained up to an accuracy of at least 88%. Unlike the last assignment, this time there is a constraint on the number of epochs. The required accuracy had to be reached by epoch 50. In addition, we had to use the LR Finder to first find an optimal learning rate to start training with, and apply gradcam to 25 misclassified images.
 
