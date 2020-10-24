@@ -131,3 +131,4 @@ dmypy.json
 data/
 checkpoints/
 .vscode
+YoloV3Repo/
